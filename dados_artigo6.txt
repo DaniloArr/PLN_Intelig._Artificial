@@ -1,0 +1,16 @@
+Objetivo: this paper, we propose a cyber-attack detection algorithm and present an impact analysis 
+of easy-to-launch cyber-attacks on a low-power mote (z1 zolertia) 
+as a model iot device.;;
+Metodologia:  such a secure message passing technique should be designed for these low powered devices along with cyber-attack detection.;;
+Problema:  contributions 
+considering these limitations an d requirements , there is a 
+need for an algorithm that will provide security and overcome 
+resource limitations. contributions 
+considering these limitations an d requirements , there is a 
+need for an algorithm that will provide security and overcome 
+resource limitations.;;
+Contribuicoes:
+ contributions considering these limitations an d requirements , there is a need for an algorithm that will provide security and overcome resource limitations.
+ interference present in the environment can also contribute to these changes in energy consumption.
+;;
+Referencias: [] ;;

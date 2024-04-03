@@ -1,0 +1,41 @@
+Objetivo: this paper, the dijkstra's algorithm for solving 
+the problem of finding the shortest path is introduced, and the 
+dijkstra's algorithm is modified to solve the problem of finding 
+the maximum load path.;;
+Metodologia:  
+in the path planning, when the requirement is a 
+"bottleneck" constraint, the global search method can be used 
+to accurately find the optimal solution.;;
+Problema: —path optimization is especially useful for improving 
+freight efficiency, and the problem of finding the maximum 
+load path is an important issue in path optimization. although 
+the problem of finding the shortest path is similar to the 
+problem of finding the maximum load path, the dijkstra's 
+algorithm for solving the problem of finding the shortest path 
+is not suitable for solving the problem of finding the maximum 
+load path. although 
+the problem of finding the shortest path is similar to the 
+problem of finding the maximum load path, the dijkstra's 
+algorithm for solving the problem of finding the shortest path 
+is not suitable for solving the problem of finding the maximum 
+load path. although 
+the problem of finding the shortest path is similar to the 
+problem of finding the maximum load path, the dijkstra's 
+algorithm for solving the problem of finding the shortest path 
+is not suitable for solving the problem of finding the maximum 
+load path. although 
+the problem of finding the shortest path is similar to the 
+problem of finding the maximum load path, the dijkstra's 
+algorithm for solving the problem of finding the shortest path 
+is not suitable for solving the problem of finding the maximum 
+load path. in this paper, the dijkstra's algorithm for solving 
+the problem of finding the shortest path is introduced, and the 
+dijkstra's algorithm is modified to solve the problem of finding 
+the maximum load path. in this paper, the dijkstra's algorithm for solving 
+the problem of finding the shortest path is introduced, and the 
+dijkstra's algorithm is modified to solve the problem of finding 
+the maximum load path.—path optimization is especially useful for improving 
+freight efficiency, and the problem of finding the maximum 
+load path is an important issue in path optimization.;;
+Contribuicoes:
+Referencias: ['[', '1', ']', 'Li', 'B', ',', 'Gu', 'H', ',', 'Ji', 'Y', '.', 'Selection', 'of', 'optimal', 'emergency', 'rescue', 'route', 'based', 'on', 'improved', 'ant', 'colony', 'algorithm', '[', 'C', ']', '//', 'International', 'Conference', 'on', 'Geoinformatics', '.', 'IEEE', ',', '2010', '[', '2', ']', 'Yu', 'M', ',', 'Yue', 'G', ',', 'Lu', 'Z', ',', 'et', 'al', '.', 'Logistics', 'Terminal', 'Distribution', 'Mode', 'and', 'Path', 'Optimization', 'Based', 'on', 'Ant', 'Colony', 'Algorithm', '[', 'J', ']', '.', 'Wireless', 'Personal', 'Communications', ',', '2018', '[', '3', ']', 'Yiyi', 'Y', ',', 'Linpeng', 'W', ',', 'Keyang', 'J', ',', 'et', 'al', '.', 'Application', 'of', 'Optimal', 'Logistic', 'Distribution', 'Problem', 'Based', 'on', 'Simulated', 'Annealing', '[', 'J', ']', '.', 'Journal', 'of', 'Ningbo', 'University', 'of', 'Technology', ',', '2018', '[', '4', ']', 'WU', 'Yanqun', ',', 'DONG', 'Peng', '.', 'Improved', 'simulated', 'annealing', 'algorithm', 'for', 'vehicle', 'routing', 'problem', 'in', 'supply', 'chain', '[', 'J', ']', '.', 'CEA', ',', '2016', ',', '52', '(', '12', ')', ':', '256-260', '[', '5', ']', 'LUO', 'Yong', ',', 'CHEN', 'Zhi-ya.Path', 'Optimization', 'of', 'Logistics', 'Distribution', 'Based', 'on', 'Improved', 'Genetic', 'Algorithm', '[', 'J', ']', '.Systems', 'Engineering.2012', '[', '6', ']', 'Han', 'L', ',', 'Hou', 'H', ',', 'Yang', 'J', ',', 'et', 'al', '.', 'E-commerce', 'distribution', 'vehicle', 'routing', 'optimization', 'research', 'based', 'on', 'genetic', 'algorithm', '[', 'C', ']', '//', '2016', 'International', 'Conference', 'on', 'Logistics', ',', 'Informatics', 'and', 'Service', 'Sciences', '(', 'LISS', ')', '.', 'IEEE', ',', '2016', '[', '7', ']', 'Qun', 'C', '.', 'Dynamic', 'Route', 'Guidance', 'Method', 'Based', 'on', 'Particle', 'Swarm', 'Optimization', 'Algorithm', '[', 'C', ']', '//', 'Second', 'International', 'Conference', 'on', 'Intelligent', 'Computation', 'Technology', '&', 'Automation', '.', 'IEEE', 'Computer', 'Society', ',', '2009', '[', '8', ']', 'Zhang', 'K', ',', 'Qiu', 'B', ',', 'Mu', 'D', '.', 'Low-carbon', 'logistics', 'distribution', 'route', 'planning', 'with', 'improved', 'particle', 'swarm', 'optimization', 'algorithm', '[', 'C', ']', '//', 'International', 'Conference', 'on', 'Logistics', '.', 'IEEE', ',', '2017', '[', '9', ']', 'Dijkstra', 'E', 'W', '.', 'A', 'note', 'on', 'two', 'problems', 'in', 'connexion', 'with', 'graphs', '[', 'M', ']', '.', 'Springer-Verlag', 'New', 'York', ',', 'Inc.', '1959', '[', '10', ']', 'Bozyigit', 'A', ',', 'Alankus', 'G', ',', 'Nasiboglu', 'E', '.', 'Public', 'transport', 'route', 'planning', ':', 'Modified', 'dijkstra', "'s", 'algorithm', '[', 'C', ']', '//', 'International', 'Conference', 'on', 'Computer', 'Science', '&', 'Engineering', '.', 'IEEE', ',', '2017', '[', '11', ']', 'Xin', 'Zhang', ',', 'Yan', 'Chen', ',', 'Taoying', 'Li.Optimization', 'of', 'logistics', 'route', 'based', 'on', 'Dijkstra', '[', 'C', ']', '//', 'IEEE', 'International', 'Conference', 'on', 'Software', 'Engineering', 'and', 'Service', 'Science', '.', 'IEEE', ',', '2015:313-316', '[', '12', ']', 'Kadry', 'S', ',', 'Abdallah', 'A', ',', 'Joumaa', 'C', '.', 'On', 'The', 'Optimization', 'of', 'Dijkstras', 'Algorithm', '[', 'M', ']', '//', 'Informatics', 'in', 'Control', ',', 'Automation', 'and', 'Robotics', '.', 'Springer', 'Berlin', 'Heidelberg', ',', '2012', '[', '13', ']', 'Shuxi', 'W', '.', 'The', 'Improved', 'Dijkstra', "'s", 'Shortest', 'Path', 'Algorithm', 'and', 'Its', 'Application', '[', 'C', ']', '//', 'Seventh', 'International', 'Conference', 'on', 'Natural', 'Computation', '.', 'IEEE', ',', '2011', '[', '14', ']', 'Shu-Xi', 'W', ',', 'An-Yu', 'L', 'I', '.', 'Multi-adjacent-vertexes', 'and', 'Multi-shortest-', 'paths', 'Problem', 'of', 'Dijkstra', 'Algorithm', '[', 'J', ']', '.', 'Computer', 'Science', ',', '2014', '13', 'Authorized', 'licensed', 'use', 'limited', 'to', ':', 'UNIVERSIDADE', 'ESTADUAL', 'DE', 'MARINGA', '.', 'Downloaded', 'on', 'February', '21,2024', 'at', '02:09:59', 'UTC', 'from', 'IEEE', 'Xplore', '.', 'Restrictions', 'apply', '.'] ;;

@@ -1,0 +1,4 @@
+Objetivo: this paper aims to analyze and
+review existing concepts and methods of sequence data1
+preprocessing and comparison and generates a systematic
+framework as a result.;;
