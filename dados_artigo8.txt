@@ -1,3 +1,0 @@
-Objetivo: this paper investigates a
-lightweight cyber-attack detection problem for distributed dc
-microgrids with bounded process and measurement noises.;;
